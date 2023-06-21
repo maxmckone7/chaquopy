@@ -1,4 +1,6 @@
 # Chaquopy: the Python SDK for Android
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Fchaquopy.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2Fchaquopy?ref=badge_shield)
+
 
 Chaquopy provides everything you need to include Python components in an Android app,
 including:
@@ -40,3 +42,7 @@ To use this repository to build an app, edit the `repositories` block in your `s
 or `build.gradle` file to [declare your
 repository](https://docs.gradle.org/current/userguide/declaring_repositories.html#sec:declaring_multiple_repositories)
 before `mavenCentral`. Either an HTTP URL or a local path can be used.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Fchaquopy.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2Fchaquopy?ref=badge_large)
